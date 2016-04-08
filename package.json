@@ -1,0 +1,18 @@
+{
+  "name": "xlab.kr",
+  "version": "1.0.5",
+  "description": "xlab common seed project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Jiyeol Lim",
+  "license": "ISC",
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/ibizcox/xlab.git"
+   },
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
